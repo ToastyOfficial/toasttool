@@ -10,6 +10,7 @@ from time import sleep
 
 from core import FingerOfGodCollection
 from tools.anonsurf import AnonSurfTools
+from tools.ddos import DDOSTools
 from tools.tool_manager import ToolManager
 
 logo = """\033[33m
@@ -28,6 +29,7 @@ logo = """\033[33m
 
 all_tools = [
     AnonSurfTools(),
+    DDOSTools(),
     ToolManager()
 ]
 
