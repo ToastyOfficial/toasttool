@@ -38,7 +38,7 @@ logo = """\033[33m
                                                                                  
                     \033[34m[✔]          Fuck Your Free World          [✔]
                     \033[34m[✔]            Version 2.2.0               [✔]
-				    \033[60m[X]           Save The Children            [X]
+		    \033[60m[X]           Save The Children            [X]
                     \033[91m[X]    The End Is Near.. Revelation2:9     [X]
 \033[97m """
 
