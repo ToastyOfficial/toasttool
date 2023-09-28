@@ -1,0 +1,14 @@
+boxes
+flask
+lolcat
+requests
+
+
+If you for some reason want to manually add dependencies copy n paste below.
+Everything will auto setup if you follow my instructions in the READ ME.
+
+
+sudo apt install boxes
+sudo apt install flask
+sudo apt install lolcat
+sudo apt install requests
