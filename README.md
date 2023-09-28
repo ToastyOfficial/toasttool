@@ -2,6 +2,28 @@
 Formally known as FOG *(finger of god)*
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://www.youtube.com/watch?v=AfVH54edAHU)
 
+## To Do 🚀 
+- [ ] New Tools
+    - [X] DDoS Tools
+    - [ ] Reverse Engineering
+    - [ ] RAT Tools
+    - [ ] Web Crawling 
+    - [ ] Payload Injector
+    - [ ] Multitor Tools
+    - [ ] Wifijamming Tools
+    - [ ] Wireless Attacks
+    - [ ] Steganography Tools
+    - [ ] Wordlist Generator
+    - [ ] Payload Creator
+    - [ ] Phishing Tools
+    - [ ] Forensic Tools
+    - [ ] Email Verifier
+    - [ ] Android Attacks
+    - [ ] iOS Attacks
+    - [ ] Hash Cracks
+    - [ ] XSS Attacks
+
+
 # Tool Features
 - Regularly Updated
 - [Anonymously Hiding Tools](#anonymously-hiding-tools)
