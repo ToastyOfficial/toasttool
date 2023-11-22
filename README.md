@@ -32,7 +32,7 @@ Formally known as FOG *(finger of god)*
 - [Anonmously Surf](https://github.com/Und3rf10w/kali-anonsurf)
 
 
-## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="25" height="25"/></p><p align="center">
+## Installation For Linux 
 
 
 ### !! RUN TOASTTOOL AS ROOT !!
