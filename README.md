@@ -5,9 +5,9 @@ Formally known as FOG *(finger of god)*
 ## To Do 🚀 
 - [ ] New Tools
     - [X] DDoS Tools
-    - [ ] Reverse Engineering
-    - [ ] RAT Tools
-    - [ ] Web Crawling 
+    - [X] Reverse Engineering
+    - [X] RAT Tools
+    - [X] Web Crawling 
     - [ ] Payload Injector
     - [ ] Multitor Tools
     - [ ] Wifijamming Tools
