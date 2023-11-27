@@ -30,6 +30,9 @@ logo = """\033[33m
 all_tools = [
     AnonSurfTools(),
     DDOSTools(),
+    ReverseEngineeringTools(),
+    RemoteAdministrationTools(),
+    OtherTools(),
     ToolManager()
 ]
 
