@@ -10,7 +10,7 @@ Formally known as FOG *(finger of god)*
     - [X] Information Gathering Tools
     - [X] Exploit Frameworks
     - [X] Forensic Tools
-    - [ ] phising_attack
+    - [ ] Phising Attack
     - [ ] Post Exploitation
     - [ ] Remote Administration
     - [ ] Reverse Engineering
