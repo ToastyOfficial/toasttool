@@ -5,23 +5,22 @@ Formally known as FOG *(finger of god)*
 ## To Do 🚀 
 - [ ] New Tools
     - [X] DDoS Tools
-    - [X] Reverse Engineering
-    - [X] RAT Tools
-    - [X] Web Crawling 
-    - [ ] Payload Injector
-    - [ ] Multitor Tools
-    - [ ] Wifijamming Tools
-    - [ ] Wireless Attacks
-    - [ ] Steganography Tools
+    - [X] Anonsurf
+    - [X] Payload Creator
+    - [X] Information Gathering Tools
+    - [X] Exploit Frameworks
+    - [X] Forensic Tools
+    - [ ] phising_attack
+    - [ ] Post Exploitation
+    - [ ] Remote Administration
+    - [ ] Reverse Engineering
+    - [ ] SQL Tools
+    - [ ] Steganography
+    - [X] Tool Manager
+    - [ ] Web Attack
+    - [ ] Wireless Attack Tools
     - [ ] Wordlist Generator
-    - [ ] Payload Creator
-    - [ ] Phishing Tools
-    - [ ] Forensic Tools
-    - [ ] Email Verifier
-    - [ ] Android Attacks
-    - [ ] iOS Attacks
-    - [ ] Hash Cracks
-    - [ ] XSS Attacks
+    - [ ] XSS Attack
 
 
 # Tool Features
