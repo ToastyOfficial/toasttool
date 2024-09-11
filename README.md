@@ -21,7 +21,15 @@ Formally known as FOG *(finger of god)*
     - [ ] Wireless Attack Tools
     - [ ] Wordlist Generator
     - [ ] XSS Attack
-
+    - [ ] Android Attack
+    - [ ] Email Verifier
+    - [ ] Hash Crack
+    - [ ] Homograph Attacks
+    - [ ] Payload Injection
+    - [ ] Socialmedia Finder
+    - [ ] Web Crawling
+    - [ ] Wifi Jamming
+    
 
 # Tool Features
 - Regularly Updated
